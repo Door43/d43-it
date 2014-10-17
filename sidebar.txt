@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[it:home|Door43 (it)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-it|d43-it repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-it/archive/master.zip|d43-it.zip]]
+
+**Recent Changes**
+{{changes>ns = it}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/it|Ethnologue data]]
+
